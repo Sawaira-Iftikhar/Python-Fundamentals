@@ -31,5 +31,8 @@ print(com,type(com))
 #     print(type(a) == type(b))
 #     print(a == b)
 
-
+a = 90
+b = 7.5
+print(type(a) == type(b))
+print(a == b)
 
