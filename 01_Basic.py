@@ -10,3 +10,7 @@
 # ==========================================
 #  PART A: PYTHON CHARACTER SET 
 # ==========================================
+
+#  Q1. Print your name in English using the print() function.
+#      Then print your name in any other language (Hindi, Urdu, Arabic, etc.)
+
