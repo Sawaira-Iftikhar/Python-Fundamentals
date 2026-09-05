@@ -23,3 +23,6 @@ print("السلام علیکم")  #it means python is unicode
 #     and white spaces. Create a single string variable that contains
 #     at least ONE of each: a letter, a digit, a special symbol, and a space.
 #     Print it.
+
+print("My Python 3.12 version is running smoothly !")
+
