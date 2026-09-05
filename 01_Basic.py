@@ -31,3 +31,9 @@ print("My Python 3.12 version is running smoothly !")
 # ==========================================
 #  PART B: Varaibles
 # ==========================================
+
+# Q4. Create three variables to store your:
+#     - name (string)
+#     - age (integer)
+#     - height in feet (float)
+#     Print all three with labels.
