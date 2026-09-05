@@ -14,3 +14,12 @@
 #     int, float, str, bool, complex
 #     Print each variable along with its type using type().
 
+name = "Green International Uni"
+semester = 2
+cgpa = 3.64
+com =  3 + 4j
+
+print(name,type(name))
+print(semester,type(semester))
+print(cgpa,type(cgpa))
+print(com,type(com))
