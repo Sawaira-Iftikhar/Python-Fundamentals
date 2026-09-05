@@ -42,5 +42,7 @@ name  = "Sawaira"
 age = 23
 cgpa = 3.64
 
-
+print("Name: ",name )
+print("Age: ",age )
+print("CGPA: ",cgpa )
 
