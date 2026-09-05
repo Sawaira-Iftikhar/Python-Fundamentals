@@ -77,3 +77,11 @@ print("After Swapping: x =", x,"y =", y)
 # Q6. List 5 Python keywords (reserved words) that CANNOT be used
 #     as variable names. Store them in 5 separate variables as strings
 #     and print them.
+
+keyword_1 = "if"
+keyword_2 = "else"
+keyword_3 = "not"
+keyword_4 = "and"
+keyword_5 = "assert"
+
+
