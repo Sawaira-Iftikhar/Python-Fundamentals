@@ -26,3 +26,4 @@ print("السلام علیکم")  #it means python is unicode
 
 print("My Python 3.12 version is running smoothly !")
 
+# ----------------------------------------------------------------------------------------------------
