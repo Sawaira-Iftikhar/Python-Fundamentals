@@ -15,8 +15,8 @@
 #      Then print your name in any other language (Hindi, Urdu, Arabic, etc.)
 
 print("My name is Sawaira")
-print("السلام علیکم")  #it means python is unicode 
-
+print("السلام علیکم")  #it means python is unicode
+ 
 # ----------------------------------------------------------------------------------------------------
 
 # Q2. Python's character set includes letters, digits, special symbols,
@@ -46,3 +46,4 @@ print("Name: ",name )
 print("Age: ",age )
 print("CGPA: ",cgpa )
 
+# ----------------------------------------------------------------------------------------------------
