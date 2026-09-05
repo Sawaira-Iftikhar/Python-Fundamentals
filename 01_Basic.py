@@ -71,7 +71,7 @@ print("After Swapping: x =", x,"y =", y)
 # ----------------------------------------------------------------------------------------------------
 
 # ==========================================
-#  PART C: RULES OF IDENTIFIERS 
+#  PART C: IDENTIFIERS 
 # ==========================================
 
 # Q6. List 5 Python keywords (reserved words) that CANNOT be used
