@@ -50,3 +50,6 @@ print("CGPA: ",cgpa )
 
 # Q4. Assign values 10, 20, 30 to variables a, b, c in a SINGLE line.
 #     Then print all three separated by a dash "-".
+
+a, b, c = 10, 20, 30
+print(a, b, c, sep="-")
