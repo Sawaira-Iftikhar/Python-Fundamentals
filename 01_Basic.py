@@ -29,7 +29,7 @@ print("My Python 3.12 version is running smoothly !")
 # ----------------------------------------------------------------------------------------------------
 
 # ==========================================
-#  PART B: Varaibles
+#  PART B: Variables
 # ==========================================
 
 # Q4. Create three variables to store your:
