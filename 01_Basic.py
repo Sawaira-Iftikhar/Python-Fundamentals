@@ -56,3 +56,14 @@ print(a, b, c, sep="-")
 
 # ----------------------------------------------------------------------------------------------------
 
+# Q5. Swap two variables WITHOUT using a third variable.
+#     Start with: x = 5, y = 10
+#     After swap: x should be 10, y should be 5
+#     Print both after swapping.
+
+x = 20
+y = 40
+
+x, y = y, x
+
+print("After Swapping: x =", x,"y =", y)
