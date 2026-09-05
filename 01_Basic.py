@@ -17,6 +17,7 @@
 print("My name is Sawaira")
 print("السلام علیکم")  #it means python is unicode 
 
+# ----------------------------------------------------------------------------------------------------
 
 # Q2. Python's character set includes letters, digits, special symbols,
 #     and white spaces. Create a single string variable that contains
