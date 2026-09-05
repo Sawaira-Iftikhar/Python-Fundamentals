@@ -84,4 +84,9 @@ keyword_3 = "not"
 keyword_4 = "and"
 keyword_5 = "assert"
 
+print("Keyword 1: ", keyword_1)
+print("Keyword 2: ", keyword_2)
+print("Keyword 3: ", keyword_3)
+print("Keyword 4: ", keyword_4)
+print("Keyword 5: ", keyword_5)
 
