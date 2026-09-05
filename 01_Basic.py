@@ -37,3 +37,10 @@ print("My Python 3.12 version is running smoothly !")
 #     - age (integer)
 #     - height in feet (float)
 #     Print all three with labels.
+
+name  = "Sawaira"
+age = 23
+cgpa = 3.64
+
+
+
