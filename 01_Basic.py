@@ -92,3 +92,6 @@ print("Keyword 5: ", keyword_5)
 
 # ----------------------------------------------------------------------------------------------------
 
+# Q10. Create a variable with the longest valid identifier name you can think of.
+#      Then create one with the shortest valid identifier name.
+#      Print both with their lengths using len().
