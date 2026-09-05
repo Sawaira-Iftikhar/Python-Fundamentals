@@ -73,3 +73,7 @@ print("After Swapping: x =", x,"y =", y)
 # ==========================================
 #  PART C: RULES OF IDENTIFIERS 
 # ==========================================
+
+# Q6. List 5 Python keywords (reserved words) that CANNOT be used
+#     as variable names. Store them in 5 separate variables as strings
+#     and print them.
