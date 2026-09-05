@@ -32,7 +32,7 @@ print("My Python 3.12 version is running smoothly !")
 #  PART B: Variables
 # ==========================================
 
-# Q4. Create three variables to store your:
+# Q3. Create three variables to store your:
 #     - name (string)
 #     - age (integer)
 #     - height in feet (float)
@@ -47,3 +47,6 @@ print("Age: ",age )
 print("CGPA: ",cgpa )
 
 # ----------------------------------------------------------------------------------------------------
+
+# Q4. Assign values 10, 20, 30 to variables a, b, c in a SINGLE line.
+#     Then print all three separated by a dash "-".
