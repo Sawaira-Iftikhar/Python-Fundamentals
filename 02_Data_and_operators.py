@@ -23,3 +23,13 @@ print(name,type(name))
 print(semester,type(semester))
 print(cgpa,type(cgpa))
 print(com,type(com))
+
+# ------------------------------------------------------------------------------------------
+
+# Q2. PREDICT THE OUTPUT (guess first, then run):
+#   Two situations
+#     print(type(a) == type(b))
+#     print(a == b)
+
+
+
