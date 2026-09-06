@@ -39,3 +39,5 @@ print(a == b)
 #   My guess for line 1:  The answer is going to be in bool type (False) bcz data-type of "a" is "int" and data-type of "b" is "float" so it's not equal
 #   My guess for line 2:  The answer is going to be in bool type (true) bcz both sides have same values
 
+# ------------------------------------------------------------------------------------------
+
