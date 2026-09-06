@@ -142,7 +142,3 @@ print("" or "Hello")  # false wrong guess correct answer is "hello"
 
 # ------------------------------------------------------------------------------------------
 
-# Q8. MEMBERSHIP & IDENTITY OPERATORS:
-#     a) Check if the letter "z" is in "Python is amazing" using 'in'.
-#     b) Check if "Java" is NOT in ["Python", "C++", "JavaScript"] using 'not in'.
-#     c) Create two lists with the same values and check == vs is.
