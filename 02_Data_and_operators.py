@@ -88,3 +88,15 @@ print("expression2 = 15 // 3", type(expression2))
 print("expression3 = 'Python' * 2", type(expression3))
 print("expression4 = 5 == 5", type(expression4))
 print("expression5 = 4 + 6.0", type(expression5))
+
+# ------------------------------------------------------------------------------------------
+
+# Q5. What is the output of this tricky code? Explain WHY in a comment.
+#
+#     print(type(type(42)))
+
+print(type(type(42)))
+
+"    My guess:  <class 'type'> "
+"    Explanation: type(42) gives the <class 'int' and the type of <class 'int'> is itself 'type'. "
+"      Therefore, the final result is <class 'type'>. "
