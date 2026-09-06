@@ -66,4 +66,14 @@ print(type(data))
 
 # ------------------------------------------------------------------------------------------
 
+# Q4. Find the data type of each expression by using
+#     type().
+#
+#     expression1 = 15 / 3
+#     expression2 = 15 // 3
+#     expression3 = "Python" * 2
+#     expression4 = 5 == 5
+#     expression5 = 4 + 6.0
+#
+#     Print each result and its type.
 
