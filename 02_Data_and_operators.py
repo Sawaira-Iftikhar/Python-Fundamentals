@@ -77,3 +77,14 @@ print(type(data))
 #
 #     Print each result and its type.
 
+expression1 = 15 / 3
+expression2 = 15 // 3
+expression3 = "Python" * 2
+expression4 = 5 == 5
+expression5 = 4 + 6.0
+
+print("expression1 = 15 / 3",type(expression1))
+print("expression2 = 15 // 3", type(expression2))
+print("expression3 = 'Python' * 2", type(expression3))
+print("expression4 = 5 == 5", type(expression4))
+print("expression5 = 4 + 6.0", type(expression5))
