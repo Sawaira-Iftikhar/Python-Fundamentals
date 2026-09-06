@@ -142,7 +142,7 @@ print("" or "Hello")  # false wrong guess correct answer is "hello"
 
 # ------------------------------------------------------------------------------------------
 
-# Q9. OPERATOR PRECEDENCE:
+# Q8. OPERATOR PRECEDENCE:
 #     What will this print? Solve it STEP BY STEP in a comment,
 #     then verify with code.
 #
