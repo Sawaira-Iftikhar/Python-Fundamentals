@@ -106,3 +106,21 @@ print(type(type(42)))
 # ==========================================
 #  PART B: TYPES OF OPERATORS (Q6 - Q10)
 # ==========================================
+
+# Q6. ARITHMETIC OPERATORS:
+#     Given a = 17 and b = 5, calculate and print:
+#     - Addition, Subtraction, Multiplication
+#     - True Division (/), Floor Division (//)
+#     - Modulus (%), Exponentiation (**)
+
+a = 17
+b = 5
+
+print(a,"+",b ," = ",a+b)
+print(a,"-",b ," = ",a-b)
+print(a,"*",b ," = ",a*b)
+print(a,"/",b ," = ",a/b)
+print(a,"//",b ," = ",a//b)
+print(a,"%",b ," = ",a%b)
+print(a,"**",b ," = ",a**b)
+
