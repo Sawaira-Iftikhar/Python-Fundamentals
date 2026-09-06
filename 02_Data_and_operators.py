@@ -162,3 +162,14 @@ print(result)
 # Final answer: 47
 
 # ------------------------------------------------------------------------------------------
+
+# Q9. ASSIGNMENT OPERATORS:
+#      Start with x = 100. Then perform these operations using
+#      shorthand assignment operators (+=, -=, *=, //=, %=, **=):
+#      - Add 50
+#      - Subtract 30
+#      - Multiply by 2
+#      - Floor divide by 3
+#      - Modulus by 5
+#      - Raise to power 2
+#      Print x after EACH step.
