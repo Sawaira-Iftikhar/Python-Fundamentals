@@ -41,7 +41,7 @@ print(a == b)
 
 # ------------------------------------------------------------------------------------------
 
-# Q4. Create a variable called data.
+# Q3. Create a variable called data.
 #
 #     Store a string in it and print its type.
 #     Then store an integer in it and print its type.
@@ -63,3 +63,5 @@ print(type(data))
 "The variable 'data' store three types of value 1. string , 2. integer , 3. float "
 "Python Allows a variable to assigned a value of a different data type later. "
 "This is one reason Python is called a dynamically typed language."
+
+# ------------------------------------------------------------------------------------------
