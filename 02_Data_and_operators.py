@@ -126,3 +126,15 @@ print(a,"**",b ," = ",a**b)
 
 # ------------------------------------------------------------------------------------------
 
+# Q7. COMPARISON & LOGICAL OPERATORS:
+#     What will each print? Guess first, then verify.
+#
+#     print(5 == 5.0)      # _______
+#     print(5 is 5.0)      # _______
+#     print(True and False) # _______
+#     print(True or False)  # _______
+#     print(not True)       # _______
+#     print(0 and 5)        # _______
+#     print("" or "Hello")  # _______
+#
+#     BONUS: Explain WHY "5 == 5.0" and "5 is 5.0" give different results.
