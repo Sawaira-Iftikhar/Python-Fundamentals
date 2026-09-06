@@ -173,3 +173,24 @@ print(result)
 #      - Modulus by 5
 #      - Raise to power 2
 #      Print x after EACH step.
+
+x = 100
+print("Start with: ", x)
+
+x += 50
+print("After +=50: ", x)
+
+x -= 30
+print("After -=30: ", x)
+
+x *= 2
+print("After *=2: ", x)
+
+x //= 3
+print("After //= 3: ", x)
+
+x %= 5
+print("After%/= 5: ", x)
+
+x **= 2
+print("After **= 2: ", x)
