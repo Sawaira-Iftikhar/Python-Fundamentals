@@ -129,12 +129,12 @@ print(a,"**",b ," = ",a**b)
 # Q7. COMPARISON & LOGICAL OPERATORS:
 #     What will each print? Guess first, then verify.
 #
-print(5 == 5.0)       # 
-print(5 is 5.0)       # 
-print(True and False) # 
-print(True or False)  # 
-print(not True)       # 
-print(0 and 5)        # 
-print("" or "Hello")  # 
+print(5 == 5.0)       # true
+print(5 is 5.0)       # false
+print(True and False) # false
+print(True or False)  # true
+print(not True)       # false
+print(0 and 5)        # false wrong guess correct answer is "0 "
+print("" or "Hello")  # false wrong guess correct answer is "hello"
 #
 #     BONUS: Explain WHY "5 == 5.0" and "5 is 5.0" give different results.
