@@ -41,15 +41,12 @@ print(a == b)
 
 # ------------------------------------------------------------------------------------------
 
-# Q3. Create two variables that contain the same
-#     numerical value, but use different data types.
+# Q4. Create a variable called data.
 #
-#     Compare:
-#     - Their values
-#     - Their data types
+#     Store a string in it and print its type.
+#     Then store an integer in it and print its type.
+#     Then store a float in it and print its type.
 #
-#     Print the results.
-#
-#     What difference do you observe?
+#     Write a comment explaining what you notice.
 
 
