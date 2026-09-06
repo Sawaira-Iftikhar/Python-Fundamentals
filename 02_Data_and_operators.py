@@ -32,7 +32,10 @@ print(com,type(com))
 #     print(a == b)
 
 a = 90
-b = 7.5
+b = 90.0
 print(type(a) == type(b))
-print(a == b)
+print(a == b) 
+
+#   My guess for line 1:  The answer is going to be in bool type (False) bcz data-type of "a" is "int" and data-type of "b" is "float" so it's not equal
+#   My guess for line 2:  The answer is going to be in bool type (true) bcz both sides have same values
 
