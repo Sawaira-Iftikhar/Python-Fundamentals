@@ -41,3 +41,13 @@ print(a == b)
 
 # ------------------------------------------------------------------------------------------
 
+# Q3. Create two variables that contain the same
+#     numerical value, but use different data types.
+#
+#     Compare:
+#     - Their values
+#     - Their data types
+#
+#     Print the results.
+#
+#     What difference do you observe?
