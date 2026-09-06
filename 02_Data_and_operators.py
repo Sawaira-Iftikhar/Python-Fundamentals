@@ -100,3 +100,5 @@ print(type(type(42)))
 "    My guess:  <class 'type'> "
 "    Explanation: type(42) gives the <class 'int' and the type of <class 'int'> is itself 'type'. "
 "      Therefore, the final result is <class 'type'>. "
+
+# ------------------------------------------------------------------------------------------
