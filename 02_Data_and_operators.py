@@ -49,4 +49,14 @@ print(a == b)
 #
 #     Write a comment explaining what you notice.
 
+data = "Hello World"
+print(type(data))
+
+data = 10
+print(type(data))
+
+data = 10.67
+print(type(data))
+
+
 
