@@ -138,3 +138,4 @@ print(0 and 5)        # false wrong guess correct answer is "0 "
 print("" or "Hello")  # false wrong guess correct answer is "hello"
 #
 #     BONUS: Explain WHY "5 == 5.0" and "5 is 5.0" give different results.
+"   Because 'is' asked if they are same objects or not if not then ans will be false. bcz int and float both are different objects/types."
