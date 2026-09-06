@@ -58,5 +58,5 @@ print(type(data))
 data = 10.67
 print(type(data))
 
-
+# So what we learn form here is that a same variable can store and run different data types in Python.
 
