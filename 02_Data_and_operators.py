@@ -66,9 +66,4 @@ print(type(data))
 
 # ------------------------------------------------------------------------------------------
 
-# Q4. Can a variable change its data type? Demonstrate by:
-#     - Creating a variable as an integer
-#     - Printing its type
-#     - Reassigning it as a string
-#     - Printing its new type
-#     What is this feature called? Write the answer as a comment.
+
