@@ -141,3 +141,8 @@ print("" or "Hello")  # false wrong guess correct answer is "hello"
 "   Because 'is' asked if they are same objects or not if not then ans will be false. bcz int and float both are different objects/types."
 
 # ------------------------------------------------------------------------------------------
+
+# Q8. MEMBERSHIP & IDENTITY OPERATORS:
+#     a) Check if the letter "z" is in "Python is amazing" using 'in'.
+#     b) Check if "Java" is NOT in ["Python", "C++", "JavaScript"] using 'not in'.
+#     c) Create two lists with the same values and check == vs is.
