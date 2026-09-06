@@ -60,3 +60,6 @@ print(type(data))
 
 # So what we learn form here is that a same variable can store and run different data types in Python.
 
+"The variable 'data' store three types of value 1. string , 2. integer , 3. float "
+"Python Allows a variable to assigned a value of a different data type later. "
+"This is one reason Python is called a dynamically typed language."
