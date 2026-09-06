@@ -149,4 +149,14 @@ print("" or "Hello")  # false wrong guess correct answer is "hello"
 #     result = 2 + 3 * 4 ** 2 - 6 // 2
 #     print(result)
 #
+
+
+result = 2 + 3 * 4 ** 2 - 6 // 2
+print(result)
+
 #     Step-by-step:
+# 1. 4 ** 2 = 16
+# 2. 3 * 16 = 48
+# 3. 6 // 2 = 3
+# 4. 2 + 48 - 3 = 47
+# Final answer: 47
