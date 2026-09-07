@@ -47,3 +47,6 @@ print("15 / 4 = ",divide,"type:",type(divide))
 print("15 // 4 = ",floor_divide,"type:",type(floor_divide))
 print("15 % 4 = ",reminder,"type:",type(reminder))
 print("15 ** 4 = ",power,"type:",type(power))
+
+sum = bool(add)
+print("sum as Boolean: ",sum)
