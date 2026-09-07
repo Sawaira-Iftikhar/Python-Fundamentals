@@ -124,3 +124,11 @@ print(num_str,type(num_str))
 #
 #      Expected Output:
 #      Total bill: 299.97
+
+"fixed code here:"
+price = "99.99"
+price =(float(99.99))
+quantity = "3"
+quantity =(float(3))
+total = price * quantity
+print("Total bill: ", total)
