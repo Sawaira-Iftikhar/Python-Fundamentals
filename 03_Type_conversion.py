@@ -114,3 +114,14 @@ num_str =str(num_str)
 print(num_str,type(num_str))
 
 #------------------------------------------------------------------------------------
+
+# Q6. What happens when you convert these? Predict, then verify.
+#
+#     print(int(True))      # _______
+#     print(int(False))     # _______
+#     print(float(True))    # _______
+#     print(str(True))      # _______
+#     print(bool("False"))  # _______  ← TRICKY!
+#     print(bool("0"))      # _______  ← TRICKY!
+#
+#     Explain the last two in a comment.
