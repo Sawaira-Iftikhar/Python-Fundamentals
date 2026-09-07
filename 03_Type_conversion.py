@@ -115,7 +115,7 @@ print(num_str,type(num_str))
 
 #------------------------------------------------------------------------------------
 
-# Q10. DEBUG THIS CODE — Find and fix all 3 errors:
+# Q6. DEBUG THIS CODE — Find and fix all 3 errors:
 #
 #      price = "99.99"
 #      quantity = "3"
