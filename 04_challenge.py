@@ -52,3 +52,8 @@ sum = bool(add)
 print("sum as Boolean: ",sum)
 
 #--------------------------------------------------------------------------------------
+
+# ==========================================
+#  CHALLENGE 2: The Type Detective 
+#  Topics Used: Data Types, Operators, Type Conversion, Identifiers
+# ==========================================
