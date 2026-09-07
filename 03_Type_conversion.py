@@ -66,3 +66,7 @@ print("int: ",num,type(num))
 # Q4. What is IMPLICIT type conversion? Give an example where Python
 #     automatically converts one type to another WITHOUT you asking.
 #     Print the result and its type.
+
+result = 30 + 45.7
+print("the result is: ",result,type(result))
+
