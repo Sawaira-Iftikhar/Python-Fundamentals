@@ -132,3 +132,5 @@ quantity = "3"
 quantity =(float(3))
 total = price * quantity
 print("Total bill: ", total)
+
+#------------------------------------------------------------------------------------
