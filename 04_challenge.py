@@ -24,3 +24,18 @@ Write a program that:
    "15 + 4 = 19 (type: <class 'int'>)"
 6. At the end, convert the sum to a boolean and print it. 
 """
+
+num1 = "15"
+num2 = "4"
+
+#covnert both string to interger
+num1 =int("15")
+num2 =int("4")
+
+add = num1 + num2
+sub = num1 - num2
+multip = num1 * num2
+divide = num1 / num2
+floor_divide = num1 // num2
+reminder = num1 % num2
+power = num1 ** num2
