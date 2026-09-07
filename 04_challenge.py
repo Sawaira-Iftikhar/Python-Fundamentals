@@ -1,6 +1,6 @@
 """
 ============================================
-  LECTURE 1 - FILE 4: BOSS CHALLENGE 🔥
+  LECTURE 1 - FILE 4: BOSS CHALLENGE 
   Topics: ALL 6 Topics Combined
   Total Challenges: 3
 ============================================
