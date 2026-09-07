@@ -93,3 +93,12 @@ print("c1 = True + 1.5",c1,type(c1))
 print("c1 = True + 1.5",d1,type(d1))
 
 #------------------------------------------------------------------------------------
+
+# Q5. Write a small program that:
+#     - Takes a number as a string: num_str = "12345"
+#     - Converts it to int
+#     - Adds 100 to it
+#     - Converts the result to float
+#     - Converts that to a string
+#     - Prints the final string with its type
+
