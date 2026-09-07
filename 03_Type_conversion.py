@@ -71,3 +71,23 @@ result = 30 + 45.7
 print("the result is: ",result,type(result))
 
 #------------------------------------------------------------------------------------
+
+# Q6. PREDICT THE OUTPUT:
+#     What data type will the result be in each case?
+#
+#     a = 5 + 2.0       # type? 
+#     b = True + True   # type? 
+#     c = True + 1.5    # type? 
+#     d = 10 * 2.0      # type? 
+#
+#     Verify by printing type() of each.
+
+a1 = 5 + 2.0       
+b1 = True + True    
+c1 = True + 1.5     
+d1 = 10 * 2.0
+
+print("a1 = 5 + 2.0",a1,type(a1))    
+print("b1 = True + True",b1,type(b1))
+print("c1 = True + 1.5",c1,type(c1))
+print("c1 = True + 1.5",d1,type(d1))
