@@ -41,3 +41,9 @@ print("0 -",e,type(e))
 f = 7
 f =str(7)
 print("7 -",f,type(f))
+
+#------------------------------------------------------------------------------------
+
+# Q2. Convert the string "3.14" to a float, then to an int.
+#     Print the result at each step.
+#     Can you convert "3.14" directly to int? Try it and explain the error.
