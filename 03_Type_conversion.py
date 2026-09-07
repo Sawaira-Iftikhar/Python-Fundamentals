@@ -94,6 +94,10 @@ print("c1 = True + 1.5",d1,type(d1))
 
 #------------------------------------------------------------------------------------
 
+# ==========================================
+#  PART C: EDGE CASES & TRICKY ONES 
+# ==========================================
+
 # Q5. Write a small program that:
 #     - Takes a number as a string: num_str = "12345"
 #     - Converts it to int
