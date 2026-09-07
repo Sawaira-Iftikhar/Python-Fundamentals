@@ -115,13 +115,12 @@ print(num_str,type(num_str))
 
 #------------------------------------------------------------------------------------
 
-# Q6. What happens when you convert these? Predict, then verify.
+# Q10. DEBUG THIS CODE — Find and fix all 3 errors:
 #
-#     print(int(True))      # _______
-#     print(int(False))     # _______
-#     print(float(True))    # _______
-#     print(str(True))      # _______
-#     print(bool("False"))  # _______  ← TRICKY!
-#     print(bool("0"))      # _______  ← TRICKY!
+#      price = "99.99"
+#      quantity = "3"
+#      total = price * quantity
+#      print("Total bill: " + total)
 #
-#     Explain the last two in a comment.
+#      Expected Output:
+#      Total bill: 299.97
