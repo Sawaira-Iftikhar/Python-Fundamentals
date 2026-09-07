@@ -30,4 +30,14 @@ c = 100
 c =float(100)
 print("100 -",c,type(c))
 
+d = 1
+d =bool(1)
+print("1 -",d,type(d))
 
+e = 0
+e =bool(0)
+print("0 -",e,type(e))
+
+f = 7
+f =str(7)
+print("7 -",f,type(f))
