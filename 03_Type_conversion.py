@@ -106,3 +106,10 @@ print("c1 = True + 1.5",d1,type(d1))
 #     - Converts that to a string
 #     - Prints the final string with its type
 
+num_str = "12345"
+num_str =int("12345")
+num_str += 100
+num_str =float(num_str)
+num_str =str(num_str)
+print(num_str,type(num_str))
+
