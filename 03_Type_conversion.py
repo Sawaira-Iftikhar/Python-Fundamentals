@@ -55,5 +55,5 @@ print("Float: ",num, type(num))
 num = int(3.89)
 print("int: ",num,type(num))
 
-
+"Direct str→int: ERROR because in string the vlaue is in decimal so it if we try to convert string in int in this situation it will show error we have to go with sequence."
 
