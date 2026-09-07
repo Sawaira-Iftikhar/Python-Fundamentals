@@ -39,3 +39,11 @@ divide = num1 / num2
 floor_divide = num1 // num2
 reminder = num1 % num2
 power = num1 ** num2
+
+print("15 + 4 = ",add,"type:",type(add))
+print("15 - 4 = ",sub,"type:",type(sub))
+print("15 * 4 = ",multip,"type:",type(multip))
+print("15 / 4 = ",divide,"type:",type(divide))
+print("15 // 4 = ",floor_divide,"type:",type(floor_divide))
+print("15 % 4 = ",reminder,"type:",type(reminder))
+print("15 ** 4 = ",power,"type:",type(power))
