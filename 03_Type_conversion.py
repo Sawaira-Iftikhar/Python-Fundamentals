@@ -47,3 +47,13 @@ print("7 -",f,type(f))
 # Q2. Convert the string "3.14" to a float, then to an int.
 #     Print the result at each step.
 #     Can you convert "3.14" directly to int? Try it and explain the error.
+
+num = "3.89"
+print("String: ",num, type(num))
+num = float("3.89")
+print("Float: ",num, type(num))
+num = int(3.89)
+print("int: ",num,type(num))
+
+
+
