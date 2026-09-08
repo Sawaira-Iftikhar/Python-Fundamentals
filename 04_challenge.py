@@ -59,6 +59,22 @@ print("sum as Boolean: ",sum)
 #  program:  Print a formatted bill
 # ==========================================
 
-# ========================================
-#    This program is little bit long and difficult so here's the full explanation.
-# ========================================
+# ===========================================
+#    This program is little bit long and
+#  difficult so here's the full explanation.
+# ============================================
+"""
+Solve this step by step. This ONE expression uses:
+- Character set (Unicode variable names are allowed!)
+- Variables & Identifiers
+- Data Types (int, float, bool)
+- Operators (arithmetic, comparison, logical)
+- Type Conversion (implicit + explicit)
+
+Step 1: Create these variables (use valid identifiers):
+   price_per_item = 299.5
+   quantity = "3"          # Notice: it's a string!
+   discount_percent = 10
+   is_member = True        # Members get extra 5% off
+
+"""
