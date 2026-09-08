@@ -99,9 +99,16 @@ Step 3: Print a formatted bill:
    Type of total:   <class 'float'>
    Is bill > 500?   True
    ================================
-   
+
 Step 4: Convert the final total to int (floor it) and print.
         Convert it to bool and print.
         Convert it to string and print with a message.
 
 """
+# ==========================================
+#    Assign values to  VARIABLES
+# ==========================================
+item_price = 380.5
+quantity = "4"
+discount_percent = 10
+member = True
