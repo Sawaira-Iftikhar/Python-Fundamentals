@@ -126,3 +126,6 @@ member_discunt = discounted_price * (5 /100)
 #Final total
 total = sub_total - discount - member_discunt
 
+# ==========================================
+#    Print fromatted Bill
+# ==========================================
