@@ -10,7 +10,6 @@
 | 5 | Types of Operators |  ✅ |
 | 6 | Type Conversion vs Type Casting |  ✅ |
 
-
 ##  Practice Files
 | File | Topics  | Questions |
 |------|-------- |-----------|
@@ -18,3 +17,10 @@
 | [02_Data_and_operators.py](02_Data_and_operators.py) | Data Types, Operators |  09 |
 | [03_type_conversion.py](03_type_conversion.py) | Type Conversion & Casting | 06 |
 | [04_challenge.py](04_challenge.py) | All Topics Mixed (Mini Projects) | 02 |
+
+## 📅 Series Progress
+- [x] **Lecture 01** — Basics, Data Types & Operators 📍 *(Current)*
+- [ ] **Lecture 02** — Coming Soon
+- [ ] **Lecture 03** — Coming Soon
+- [ ] **Lecture 04** — Coming Soon
+- [ ] **Lecture 05** — Coming Soon
