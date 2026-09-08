@@ -99,6 +99,9 @@ Step 3: Print a formatted bill:
    Type of total:   <class 'float'>
    Is bill > 500?   True
    ================================
-
+   
+Step 4: Convert the final total to int (floor it) and print.
+        Convert it to bool and print.
+        Convert it to string and print with a message.
 
 """
