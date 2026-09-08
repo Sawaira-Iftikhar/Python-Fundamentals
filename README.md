@@ -23,7 +23,14 @@
 <details>
 <summary><b>Click to expand quick revision notes</b></summary>
 
+### 1. Identifier Rules
+- Can contain: letters (`a-z`, `A-Z`), digits (`0-9`), and underscores (`_`).
+- **Cannot** start with a digit (e.g., `2name` is invalid).
+- Cannot use reserved keywords (`for`, `class`, `if`, etc.).
+- Case-sensitive (`Age` $\neq$ `age`).
+
 </details>
+
 ##  Series Progress
 - [x] **Lecture 01** — Basics, Data Types & Operators 📍 *(Current)*
 - [ ] **Lecture 02** — Coming Soon
