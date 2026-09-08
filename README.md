@@ -24,3 +24,7 @@
 - [ ] **Lecture 03** — Coming Soon
 - [ ] **Lecture 04** — Coming Soon
 - [ ] **Lecture 05** — Coming Soon
+- [ ] **Lecture 06** — Coming Soon
+- [ ] **Lecture 07** — Coming Soon
+- [ ] **Lecture 08** — Coming Soon
+- [ ] **Lecture 09** — Coming Soon
