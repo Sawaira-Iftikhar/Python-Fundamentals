@@ -129,3 +129,12 @@ total = sub_total - discount - member_discunt
 # ==========================================
 #    Print fromatted Bill
 # ==========================================
+
+print("======================================")
+print("      Shopping Bill         ")
+print("Price per item:     ",item_price,"Rs")
+print("Quantity:           ",quantity)
+print("Subtotal:           ",sub_total,"Rs")
+print("Discount (10%):     ",discount,"Rs")
+print("Member Discount:    ",member_discunt,"Rs")
+print("--------------------------------------")
