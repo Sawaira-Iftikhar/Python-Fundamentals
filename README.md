@@ -13,4 +13,4 @@
 ##  Practice Files
 | File | Topics  | Questions |
 |------|-------- |-----------|
-| (01_Basic.py) | Character Set, Variables, Identifiers | |
+| [01_Basic.py](01_Basic.py) | Character Set, Variables, Identifiers | |
