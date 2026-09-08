@@ -1,4 +1,4 @@
-# python-fundamentals
+# Python-Fundamentals
 
 ## 📚 Topics Covered
 | # | Topic | Status |
