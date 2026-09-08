@@ -16,3 +16,4 @@
 |------|-------- |-----------|
 | [01_Basic.py](01_Basic.py) | Character Set, Variables, Identifiers | 07 |
 | [02_Data_and_operators.py](02_Data_and_operators.py) | Data Types, Operators |  09 |
+| [03_type_conversion.py](03_type_conversion.py) | Type Conversion & Casting | 06 |
