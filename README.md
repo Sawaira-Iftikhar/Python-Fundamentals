@@ -18,7 +18,7 @@
 | [03_type_conversion.py](03_type_conversion.py) | Type Conversion & Casting | 06 |
 | [04_challenge.py](04_challenge.py) | All Topics Mixed (Mini Projects) | 02 |
 
-## 📅 Series Progress
+##  Series Progress
 - [x] **Lecture 01** — Basics, Data Types & Operators 📍 *(Current)*
 - [ ] **Lecture 02** — Coming Soon
 - [ ] **Lecture 03** — Coming Soon
