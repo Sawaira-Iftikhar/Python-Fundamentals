@@ -58,3 +58,7 @@ print("sum as Boolean: ",sum)
 #  Topics Used: ALL 6 Topics
 #  program:  Print a formatted bill
 # ==========================================
+
+# ========================================
+#    This program is little bit long and difficult so here's the full explanation.
+# ========================================
