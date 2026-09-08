@@ -62,3 +62,6 @@ The following always evaluate to `False` in `bool()`:
 If you found this helpful or have any questions:
 
 - 💬 **Found a bug / Have a solution?** Open an [Issue](https://github.com/) or create a Pull Request.
+
+## ⭐ Support
+If you like this series and want to support it, please give this repository a Star (⭐)! It helps others discover this learning resource.
