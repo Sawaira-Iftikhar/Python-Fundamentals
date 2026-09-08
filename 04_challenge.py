@@ -112,3 +112,6 @@ item_price = 380.5
 quantity = "4"
 discount_percent = 10
 member = True
+# convert quantity from string to integer
+quantity =int("4")
+
