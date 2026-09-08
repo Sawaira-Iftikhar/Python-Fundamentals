@@ -18,6 +18,12 @@
 | [03_type_conversion.py](03_type_conversion.py) | Type Conversion & Casting | 06 |
 | [04_challenge.py](04_challenge.py) | All Topics Mixed (Mini Projects) | 02 |
 
+## 💡 Quick Cheat Sheet (Lecture 1 Highlights)
+
+<details>
+<summary><b>Click to expand quick revision notes</b></summary>
+
+</details>
 ##  Series Progress
 - [x] **Lecture 01** — Basics, Data Types & Operators 📍 *(Current)*
 - [ ] **Lecture 02** — Coming Soon
