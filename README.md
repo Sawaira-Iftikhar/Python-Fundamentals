@@ -29,6 +29,15 @@
 - Cannot use reserved keywords (`for`, `class`, `if`, etc.).
 - Case-sensitive (`Age` $\neq$ `age`).
 
+### 2. Operators Precedence
+1. `()` — Parentheses
+2. `**` — Exponentiation
+3. `+x`, `-x` — Unary plus/minus
+4. `*`, `/`, `//`, `%` — Multiplication, Division, Floor Division, Modulo
+5. `+`, `-` — Addition, Subtraction
+6. `==`, `!=`, `<`, `<=`, `>`, `>=` — Comparison
+7. `not`, `and`, `or` — Logical Operators
+
 </details>
 
 ## 📅 Series Progress
