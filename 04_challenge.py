@@ -83,24 +83,24 @@ Step 2: Calculate the total bill:
    c) Calculate discount = subtotal * (discount_percent / 100)
    d) If is_member is True, apply extra 5% discount on the
       already discounted price
-   e) Calculate final_total = subtotal - all discounts
+   e) Calculate final_total = subtotal - all discounts """
 
-Step 3: Print a formatted bill:
-   ================================
-        🧾 SHOPPING BILL
-   ================================
-   Price per item:  ₹299.5
-   Quantity:        3
-   Subtotal:        ₹898.5
-   Discount (10%):  ₹89.85
-   Member Discount: ₹40.4325
-   --------------------------------
-   FINAL TOTAL:     ₹768.2175
-   Type of total:   <class 'float'>
-   Is bill > 500?   True
-   ================================
+# Step 3: Print a formatted bill:
+#    ================================
+#         🧾 SHOPPING BILL
+#    ================================
+#    Price per item:  ₹299.5
+#    Quantity:        3
+#    Subtotal:        ₹898.5
+#    Discount (10%):  ₹89.85
+#    Member Discount: ₹40.4325
+#    --------------------------------
+#    FINAL TOTAL:     ₹768.2175
+#    Type of total:   <class 'float'>
+#    Is bill > 500?   True
+#    ================================
 
-Step 4: Convert the final total to int (floor it) and print.
+"""Step 4: Convert the final total to int (floor it) and print.
         Convert it to bool and print.
         Convert it to string and print with a message.
 
@@ -123,4 +123,5 @@ discount = sub_total * (discount_percent/100)
 # Extra 5% member discount
 discounted_price = sub_total - discount
 member_discunt = discounted_price * (5 /100)
+#Final total
 
