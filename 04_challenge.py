@@ -124,4 +124,5 @@ discount = sub_total * (discount_percent/100)
 discounted_price = sub_total - discount
 member_discunt = discounted_price * (5 /100)
 #Final total
+total = sub_total - discount - member_discunt
 
