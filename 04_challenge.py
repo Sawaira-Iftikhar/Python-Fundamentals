@@ -100,11 +100,6 @@ Step 2: Calculate the total bill:
 #    Is bill > 500?   True
 #    ================================
 
-"""Step 4: Convert the final total to int (floor it) and print.
-        Convert it to bool and print.
-        Convert it to string and print with a message.
-
-"""
 # ========================================
 #    Assign values to  Variables
 # ========================================
@@ -138,3 +133,7 @@ print("Subtotal:           ",sub_total,"Rs")
 print("Discount (10%):     ",discount,"Rs")
 print("Member Discount:    ",member_discunt,"Rs")
 print("--------------------------------------")
+print("FINAL Total:        ",total,"Rs")
+print("Type of total:      ",type(total))
+print("Is Bill > 500 ?    ",total > 500)
+print("======================================")
