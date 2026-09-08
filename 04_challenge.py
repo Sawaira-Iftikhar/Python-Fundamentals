@@ -77,4 +77,13 @@ Step 1: Create these variables (use valid identifiers):
    discount_percent = 10
    is_member = True        # Members get extra 5% off
 
+Step 2: Calculate the total bill:
+   a) Convert quantity to int
+   b) Calculate subtotal = price * quantity
+   c) Calculate discount = subtotal * (discount_percent / 100)
+   d) If is_member is True, apply extra 5% discount on the
+      already discounted price
+   e) Calculate final_total = subtotal - all discounts
+
+
 """
