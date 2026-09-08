@@ -38,6 +38,12 @@
 6. `==`, `!=`, `<`, `<=`, `>`, `>=` — Comparison
 7. `not`, `and`, `or` — Logical Operators
 
+### 3. Falsy Values in Python
+The following always evaluate to `False` in `bool()`:
+- Constants: `None`, `False`
+- Zero numbers: `0`, `0.0`, `0j`
+- Empty sequences/collections: `""`, `[]`, `()`, `{}`, `set()`
+
 </details>
 
 ## 📅 Series Progress
