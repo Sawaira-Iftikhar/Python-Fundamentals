@@ -105,9 +105,9 @@ Step 4: Convert the final total to int (floor it) and print.
         Convert it to string and print with a message.
 
 """
-# ==========================================
-#    Assign values to  VARIABLES
-# ==========================================
+# ========================================
+#    Assign values to  Variables
+# ========================================
 item_price = 380.5
 quantity = "4"
 discount_percent = 10
@@ -115,3 +115,8 @@ member = True
 # convert quantity from string to integer
 quantity =int("4")
 
+# ======================================
+#         Calculate Bill
+# ======================================
+sub_total = item_price * quantity
+discount = sub_total * (discount_percent/100)
