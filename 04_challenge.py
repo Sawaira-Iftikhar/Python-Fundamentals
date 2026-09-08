@@ -120,3 +120,7 @@ quantity =int("4")
 # ======================================
 sub_total = item_price * quantity
 discount = sub_total * (discount_percent/100)
+# Extra 5% member discount
+discounted_price = sub_total - discount
+member_discunt = discounted_price * (5 /100)
+
