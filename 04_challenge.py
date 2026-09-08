@@ -56,4 +56,5 @@ print("sum as Boolean: ",sum)
 # ==========================================
 #  CHALLENGE 2: The Ultimate Expression (Hard) 
 #  Topics Used: ALL 6 Topics
+#  program:  Print a formatted bill
 # ==========================================
