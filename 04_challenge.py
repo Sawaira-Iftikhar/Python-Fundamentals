@@ -85,5 +85,20 @@ Step 2: Calculate the total bill:
       already discounted price
    e) Calculate final_total = subtotal - all discounts
 
+Step 3: Print a formatted bill:
+   ================================
+        🧾 SHOPPING BILL
+   ================================
+   Price per item:  ₹299.5
+   Quantity:        3
+   Subtotal:        ₹898.5
+   Discount (10%):  ₹89.85
+   Member Discount: ₹40.4325
+   --------------------------------
+   FINAL TOTAL:     ₹768.2175
+   Type of total:   <class 'float'>
+   Is bill > 500?   True
+   ================================
+
 
 """
